@@ -537,7 +537,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pipes: {fileID: 3078900412272885111, guid: 893a71f9fa6799041b1c8cdec92243a5, type: 3}
   timeSpawn: 0
-  delaySpawn: 3
+  delaySpawn: 2
 --- !u!4 &2026069792
 Transform:
   m_ObjectHideFlags: 0
