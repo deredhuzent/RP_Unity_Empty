@@ -24,5 +24,6 @@ public class Spawn : MonoBehaviour
         location = new Vector2(9, UnityEngine.Random.Range(-3.20f, 2.40f));
 
         Instantiate(pipes, location, Quaternion.identity);
+
     }
 }
