@@ -14,7 +14,7 @@ public class Spawn : MonoBehaviour
 
     Vector2 location;
 
-    private void Update()
+    private void Start()
     {
         InvokeRepeating("spawnPipes", timeSpawn, delaySpawn);
     }
